@@ -124,7 +124,6 @@ Hospital-Patient-Analysis/
 ├── hospital_patient_analysis.ipynb
 ├── smart_hospital_appointment_dataset.csv
 ├── README.md
-└── images/ (Optional: Graph screenshots)
 ```
 
 ## 📷 Sample Output
